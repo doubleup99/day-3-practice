@@ -1,0 +1,13 @@
+body {
+
+  padding: 25px;
+}
+
+.hero {
+  background-image: url("../img/helloworld.jpg");
+  background-size: cover;
+  color: white;
+}
+.well {
+  background-color: yellow;
+}
